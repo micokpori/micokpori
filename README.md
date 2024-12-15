@@ -1,9 +1,14 @@
 # 💫 About Me:
-🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean..<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
-
+🚀 Journeying Through: Currently immersed in the world of Android development, exploring the latest Jetpack Compose and Modern Android Development practices.<br>
+🌐 Team Ups: Always open to collaborating on Android projects! Whether it's UI/UX, architecture, or integrations, let's build something awesome together.<br>
+📘 Current Quest: Mastering Kotlin and deepening my understanding of Android architecture components (MVVM, MVI, etc.).<br>
+🔍 My Specialty: Crafting smooth and intuitive user experiences on the Android platform. Interested in building robust and performant Android apps? Let's connect!<br>
+🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done efficiently and effectively.
 # 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/Kotlin-%293498db.svg?style=for-the- badge&logo=Kotlin&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%294285F4.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=FFFFFF)
+![Firebase](https://img.shields.io/badge/Firebase-994499?style=for-the-badge&logo=firebase&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=micokpori&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
